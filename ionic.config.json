@@ -1,0 +1,7 @@
+{
+  "name": "appbank",
+  "integrations": {
+    "capacitor": {}
+  },
+  "type": "angular"
+}
